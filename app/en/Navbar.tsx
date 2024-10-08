@@ -10,14 +10,14 @@ export default function Navbar() {
         <nav className="absolute left-0 top-0 z-[9999999] w-full sm:px-10 md:px-20">
             <div className="flex justify-between items-center gap-8">
             <div className="nav__logo">
-                <Link href={"/"}><Image src="/abren-care.png" className="w-40" alt="logo" width={160} height={160}/></Link>
+                <Link href={"/en"}><Image src="/abren-care.png" className="w-40" alt="logo" width={160} height={160}/></Link>
             </div>
             <div className="hidden lg:flex gap-20 items-center ">
                 <ul className="flex items-center gap-10 text-white text-xl">
-                    <li className="hover:text-teal-500 duration-300"><Link href="/" >Hem</Link></li>
-                    <li className="hover:text-teal-500 duration-300"><Link href="/about-us" >Om oss</Link></li>
-                    <li className="hover:text-teal-500 duration-300"><Link href="#services" >Tjänster</Link></li>
-                    <li className="hover:text-teal-500 duration-300"><Link href="#contact" >Kontakt</Link></li>
+                    <li className="hover:text-teal-500 duration-300"><Link href="/en" >Home</Link></li>
+                    <li className="hover:text-teal-500 duration-300"><Link href="/en/about-us" >About-us</Link></li>
+                    <li className="hover:text-teal-500 duration-300"><Link href="#services" >Service</Link></li>
+                    <li className="hover:text-teal-500 duration-300"><Link href="#contact" >Contact</Link></li>
                 </ul>
                 <ul className="flex gap-2 font-bold text-xl ">
                     <li className="nav__item "><Link href="/en" className="to-english text-white hover:text-teal-500 flex items-center gap-2">En<Image src="/us.png" alt="us-lang" className="w-5" width={20} height={20} /></Link></li><span className="text-white">/</span>
@@ -32,10 +32,10 @@ export default function Navbar() {
                 <div className="absolute top-3 right-3 text-3xl" id="nav-close" onClick={() => setIsOpen(false)}>
                     <RiCloseFill />
                 </div>
-                <Link href="/" >Hem</Link>
-                <Link href="/about-us" >Om oss</Link>
-                <Link href="#services" >Tjänster</Link>
-                <Link href="#contact" >Kontakt</Link>
+                <Link href="/en" >Home</Link>
+                <Link href="/en/about-us" >About-us</Link>
+                <Link href="#services" >Service</Link>
+                <Link href="#contact" >Contact</Link>
                 <ul className="flex gap-2 font-bold text-xl ">
                     <li className="nav__item"><Link href="/en" className="to-english text-white hover:text-teal-500 flex items-center gap-2">En<Image src="/us.png" alt="us-lang" className="w-5" width={20} height={20} /></Link></li><span className="text-white">/</span>
                     <li className="nav__item"><Link href="/" className="to-swedish text-white hover:text-teal-500 flex items-center gap-2">Se<Image src="/sweden.png" alt="us-lang" className="w-5" width={20} height={20} /></Link></li>
