@@ -1,5 +1,5 @@
 'use client'
-import { useState } from "react";
+import { FormEvent, useState } from "react";
 import emailjs from "@emailjs/browser";
 
 export default function Contact() {
@@ -9,7 +9,8 @@ export default function Contact() {
     const [user_phone, setUserPhone] = useState('')
     const [message, setMessage] = useState('')
 
-    const handleSubmit = (e: any) => {
+    // handleSubmit function with appropriate event type
+    const handleSubmit = (e: FormEvent) => {
         e.preventDefault();
         emailjs.send("service_8pz9hrl","template_y7q4kca",{
                 user_name,
