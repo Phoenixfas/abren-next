@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className='w-full h-screen relative'>
         <div className="absolute w-full h-full">
-            <Image src="/care.jpg" className='w-full h-full object-cover object-center bg-center' alt="About Us Hero" width={1920} height={1080} />
+          <video src="/about-vid.mp4" autoPlay loop muted className="w-full h-full object-cover" />
         </div>
         <div className="relative w-full h-full bg-[#000000aa] flex flex-col items-center justify-center px-5">
             <h1 className='text-center text-6xl text-white'>OM OSS</h1>
