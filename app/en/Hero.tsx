@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="relative w-full h-full bg-[#00000055] flex flex-col items-center justify-center gap-5 text-center px-5">
             {/* <div className="hero-section h-full w-full flex flex-col items-center justify-center text-center mx-auto space-y-6 p-8 mt-8 mr-72"> */}
                 <h1 className="outfit-mainheading hero-text text-white hover:text-teal-500 font-bold text-6xl transition-colors duration-700">
-                    AbrenCare
+                    Abren Care
                 </h1>
                 <p className="hero-description max-w-xl mx-auto text-center text-white teachers-lowerheading mb-5">
                     Welcome to Abrencare – your partner for person-centred care and care at home.  
