@@ -37,7 +37,7 @@ export default function WhyChoose() {
                     
                     <div>
                         <h2 className="text-xl font-bold mb-2">24 timmarsservice</h2>
-                        <p className="text-gray-700">Vi erbjuder service dygnet runt för att möta dina behov när som helst, var som helst.</p>
+                        <p className="text-gray-700">Vi erbjuder dygnet runt-service för att möta dina behov, oavsett tid och plats.</p>
                     </div>
                 </div>
                 {/* <!-- Card 2 --> */}
@@ -47,8 +47,7 @@ export default function WhyChoose() {
                 
                     <div>
                         <h2 className="text-xl font-bold mb-2">Erfaren personal</h2>
-                        <p className="text-gray-700">Exceptionell och personlig vård för ditt välbefinnande.
-                        Erfaren personal.</p>
+                        <p className="text-gray-700">Med vår erfarna personal får du skräddarsydd och omsorgsfull vård för ditt välbefinnande.</p>
                     </div>
                 </div>
                 {/* <!-- Card 3 --> */}
@@ -57,8 +56,8 @@ export default function WhyChoose() {
                     <Image src="/quality.png" alt="Image" className="mr-4 ml-2 h-20 p-1 w-20" width={80} height={80} /> 
                     
                     <div>
-                        <h2 className="text-xl font-bold mb-2">Kvalitets service</h2>
-                        <p className="text-gray-700">Vi prioriterar kvalitet för att säkerställa att våra tjänster uppfyller de högsta standarderna.</p>
+                        <h2 className="text-xl font-bold mb-2">Kvalitetstjänster</h2>
+                        <p className="text-gray-700">Vi prioriterar kvalitet för att säkerställa att våra tjänster alltid uppfyller de högsta standarderna och möter dina förväntningar.</p>
                     </div>
                 </div>
             </div>

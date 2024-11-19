@@ -24,7 +24,7 @@ export default function Priorities() {
                 <span>VÅRA</span> <span className="text-[#54b3ba]"> PRIORITERINGAR</span>
                 <div className="absolute bottom-0 h-2 w-40 bg-[#54b3ba]"></div>
             </h2>
-            <p className='text-center text-xl'>På Abrencare strävar vi efter att erbjuda personcentrerad vård och omsorg av hög kvalitet i hemmet. Vi värdesätter och respekterar varje individs unika behov och önskemål genom att skapa en trygg och tillitsfull miljö där kunden alltid står i fokus. Vi kombinerar vår erfarenhet, kompetens och empati för att säkerställa att varje kund får den vård och omsorg de förtjänar. Hos oss är individen aktiv i sin genomförandeplan och vi prioriterar alltid kundens rätt att själv bestämma. Vi strävar efter att skapa en miljö där kundens gränser respekteras och där de känner sig värdiga och respekterade.</p>
+            <p className='text-center text-xl'>På Abrencare strävar vi efter att erbjuda personcentrerad vård och omsorg av högsta kvalitet i hemmet. Vi respekterar och värdesätter varje individs unika behov och önskemål, och skapar en trygg och tillitsfull miljö där kunden alltid står i fokus. Genom att kombinera erfarenhet, kompetens och empati säkerställer vi att varje kund får den vård och omsorg de förtjänar. Vi främjar delaktighet och självbestämmande, där individen är aktiv i sin genomförandeplan och har rätt att fatta egna beslut om sin vård.</p>
         </div>
     </div>
   )

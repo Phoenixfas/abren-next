@@ -18,8 +18,7 @@ export default function Services() {
                 <div className="text-center">
                 <h2 className="text-2xl font-bold mb-2">Hem<span className="text-[#54b3ba]">sjukvård</span></h2>
                 <p className="teachers-lowerheading px-8 max-w-prose text-center">
-                    Hemsjukvård innebär ingripanden i hemmet för: Mediciner, Injektioner, Sårbehandling, Provsamling
-                    Syftar till att ge sjukhusliknande vård hemma.
+                    Hemsjukvård innebär att patienter får medicinsk vård och behandling direkt i hemmet, inklusive administrering av mediciner, injektioner, sårbehandling, regelbundna hälsokontroller för att övervaka hälsotillståndet samt blodprovstagning. Syftet är att erbjuda sjukhusliknande vård i en bekväm och trygg hemmiljö, vilket gör det möjligt för patienter att få den vård de behöver utan att behöva lämna sitt hem.
                 </p>
                 </div>
             </div>
@@ -29,8 +28,7 @@ export default function Services() {
                 <div className="text-center">
                 <h2 className="text-2xl font-bold mb-2">Hemtjänst</h2>
                 <p className="teachers-lowerheading px-12 max-w-prose text-center">
-                    Hemvård för daglig livshjälp, inklusive: Inköp, Städning, Tvätt, Måltider
-                    Professionellt stöd för att underlätta vardagen.
+                    Vi erbjuder professionellt stöd för att underlätta vardagen för våra kunder och patienter. Våra tjänster inkluderar hjälp med inköp, städning, tvätt och matlagning, vilket gör det möjligt att behålla självständigheten i en trygg och bekväm hemmiljö. Vi ser till att dagliga behov tillgodoses med omsorg och respekt.
                 </p>
                 </div>
             </div>
@@ -40,8 +38,7 @@ export default function Services() {
                 <div className="text-center">
                 <h2 className="text-2xl font-bold mb-2"><span className="text-[#54b3ba]">24/7 </span>Sjuksköterskekoppling</h2>
                 <p className="teachers-lowerheading px-12 max-w-prose text-center">
-                    Abren Care erbjuder jourbaserade sjukskötersketjänster för: Äldreboenden, LSS-boenden, Socialpsykiatri
-                    Akut medicinsk hjälp när som helst.
+                    Abren Care erbjuder jourbaserade sjukskötersketjänster för äldreboenden, LSS-boenden och socialpsykiatri. Våra joursjuksköterskor är tillgängliga dygnet runt och tillhandahåller HSL-vårdinsatser både på plats och via telefonrådgivning. Vi erbjuder professionellt stöd under jourtid för att säkerställa kontinuerlig tillgång till medicinsk hjälp.
                 </p>
                 </div>
             </div>

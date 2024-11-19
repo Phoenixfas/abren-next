@@ -39,7 +39,9 @@ export default function Contact() {
   return (
     <div className="relative w-full min-h-screen flex flex-col xl:flex-row 2xl:flex-row bg-[url('/contact-us-image.png')] overflow-visible px-5" id="contact">
         <div className="flex-[1] flex flex-col justify-end px-5 md:px-[100px] py-[70px]">
-            <p className="text-4xl font-bold text-white">Du är alltid välkommen att <span className="text-[#54b3ba]">kontakta oss!</span></p>
+            <p className="text-4xl font-bold text-white">Tillsammans för din trygghet och välmående.
+              {/* <span className="text-[#54b3ba]">kontakta oss!</span> */}
+            </p>
         </div>
 
         <div className="flex-[1.5] relative">

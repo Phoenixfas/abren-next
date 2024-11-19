@@ -34,14 +34,14 @@ export default function Blogs() {
             </div>
             <div className="relative mt-8 flex flex-col items-center gap-x-4">
               <Image src="/nurse-avatar.jpg" alt="img" className="h-10 w-10 rounded-full bg-gray-50 mr-20" width={40} height={40} />
-              <div className="text-sm leading-6">
+              <div className="text-sm leading-6 w-full">
                 <p className="font-semibold text-gray-900">
                   <a href="#">
                     <span className="absolute inset-0"></span>
-                    Melat <span className="text-[#54b3ba]">Tilahun</span>
+                    Melat <span className="text-[#54b3ba]"></span>
                   </a>
                 </p>
-                <p className="text-gray-600">VD / chef</p>
+                <p className="text-gray-600">VD / Chef</p>
               </div>
             </div>
           </article>

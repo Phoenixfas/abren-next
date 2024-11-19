@@ -94,14 +94,16 @@ export default function Testimonials() {
                                 </div>
 
                                 <div className="mt-4 ">
-                                    <p className="outfit-mainheading text-2xl font-bold text-black sm:text-3xl">Gustav Andersson</p>
+                                    <p className="outfit-mainheading text-2xl font-bold text-black sm:text-3xl">Isabella Andersson</p>
 
-                                    <p className="mt-4 leading-relaxed text-gray-700"> Att samarbeta med AbrenCare har varit en givande upplevelse. Deras engagemang för personcentrerad vård, professionell personal och efterlevnad av branschstandarder säkerställer enastående service. Vårt samarbete präglas av tydlig kommunikation, effektivt teamwork och en delad hängivenhet att förbättra liv. AbrenCare är en pålitlig partner när det gäller att leverera vård av hög kvalitet, och vi ser fram emot att fortsätta arbeta tillsammans. </p>
+                                    <p className="mt-4 leading-relaxed text-gray-700">  
+                                        Det är alltid ett nöje att samarbeta med Abrencare. Personalens glädje och positiva inställning gör varje situation lätt att hantera. Allt går att lösa, och lösningarna fungerar även i praktiken. Det känns tryggt att få hjälp av Abrencare. De är mycket bra på återkoppling, undersöker och ringer upp snabbt. Som anhörig känner jag mig mycket nöjd.  
+                                    </p>
                                 </div>
                             </div>
 
                             <footer className="mt-4 text-sm font-medium text-gray-700 sm:mt-6">
-                            &mdash; Gustav Andersson
+                            &mdash; Isabella Andersson
                             </footer>
                         </blockquote>
                     </div>

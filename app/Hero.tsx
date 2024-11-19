@@ -14,7 +14,7 @@ export default function Hero() {
                     AbrenCare
                 </h1>
                 <p className="hero-description max-w-xl mx-auto text-center text-white teachers-lowerheading mb-5">
-                    Välkommen till Abrencare – din partner för personcentrerad vård och omsorg i hemmet.  
+                    Välkommen till Abrencare – din pålitliga vårdgivare för personcentrerad vård och omsorg i hemmet. 
                 </p>
                 <Link href={"/about-us"} className='w-fit px-5 py-2 rounded-full border text-sm uppercase text-white hover:text-black hover:bg-white hover:scale-110 duration-300'>
                     Läs mer

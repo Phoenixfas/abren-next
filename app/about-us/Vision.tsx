@@ -9,7 +9,9 @@ export default function Vision() {
                 <h2 className='relative text-4xl font-bold'>Vår Vision</h2>
                 {/* <div className='bg-[#54b3ba] absolute h-1 w-32 z-40 bottom-0'></div> */}
             </div>
-            <p className='text-lg font-normal'>På Abrencare strävar vi efter att erbjuda säker, personlig och tillgänglig vård i hemmet. Med hjärta och kärlek arbetar vi för att förbättra livskvaliteten och ge trygghet dygnet runt. Vårt mål är att vara det självklara valet för dem som söker värme och professionalism i vården.</p>
+            <p className='text-lg font-normal'>
+              På Abrencare arbetar vi för att erbjuda säker, personlig och tillgänglig vård i hemmet. Med hjärta och engagemang strävar vi efter att förbättra livskvaliteten för varje individ och ge trygghet när den behövs som mest. Vårt mål är att vara det självklara valet för de som söker både värme och professionalism inom vård och omsorg.
+            </p>
         </div>
     </div>
   )

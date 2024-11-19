@@ -13,7 +13,13 @@ export default function Welcome() {
                 <h2 className='relative text-4xl font-bold'>VÄLKOMMEN</h2>
                 <div className='bg-[#54b3ba] absolute h-1 w-32 z-40 bottom-0'></div>
             </div>
-            <p className='text-base font-light'>Välkommen till Abrencare – din partner för personcentrerad vård och omsorg i hemmet. Med fokus på trygghet, kvalitet och kontinuitet erbjuder vi skräddarsydda tjänster inom hemsjukvård, hemtjänst och sjuksköterskejour för att möta dina individuella behov och önskemål. Utforska våra tjänster idag och upptäck hur vi kan hjälpa dig och dina närstående att få den vård och omsorg ni förtjänar. Abren Care AB är ett privat företag som drivs av erfarna sjuksköterskor, socionomer, samordnare och ekonomer med lång erfarenhet inom hemsjukvården, äldreomsorg och joursjuksköterska arbete. Vi strävar efter att leverera högkvalitativ omvårdnad och omsorg för våra kunder genom vår breda expertis och dedikation.</p>
+            <p className='text-base font-light'>
+              <b className='font-bold'>Välkommen till Abrencare – Din pålitliga vårdgivare för personcentrerad vård och omsorg i hemmet.</b>
+              <br/>
+              Abren Care AB är ett privat företag som drivs av erfarna distriktssköterskor, socionomer, samordnare och ekonomer med lång erfarenhet inom hemsjukvård, äldreomsorg och jourverksamhet. Vi strävar efter att leverera högkvalitativ omvårdnad och omsorg genom lång erfarenhet, kunskap och passion för det vi gör.
+              Med fokus på trygghet, kvalitet och kontinuitet erbjuder vi tjänster inom hemsjukvård, hemtjänst och sjuksköterskejour för att möta dina individuella behov och önskemål.
+              Läs mer om våra tjänster och kontakta oss för att få veta mer om hur vi kan hjälpa dig och dina närstående.
+          </p>
         </div>
     </div>
   )

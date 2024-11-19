@@ -10,8 +10,7 @@ export default function Footer() {
             <div className="flex flex-row flex-wrap lg:flex-row justify-between gap-12">
                 <div className="max-w-80 flex flex-col gap-6">
                     <Image src="/abren-care.png" alt="AbrenCare Logo" className="w-40" width={160} height={160} />
-                    <p className="text-lg leading-6">På AbrenCare erbjuder vi ett brett utbud av tjänster för att hjälpa individer 
-                    att leva självständigt i bekvämligheten av sina egna hem.</p>
+                    <p className="text-lg leading-6">På Abrencare erbjuder vi vårdtjänster som hjälper individer att leva självständigt i bekvämligheten av sina egna hem.</p>
                 </div>
                 <div className="max-w-80 flex flex-col gap-6">
                     <h3 className="text-2xl font-semibold">Kontakta oss</h3>
@@ -21,8 +20,8 @@ export default function Footer() {
                     <p className="text-lg leading-6">Email: info@abrencare.se</p>
                     <div className="flex gap-5 text-white text-4xl">
                         <Link href="https://www.facebook.com/people/Abrencare/61565673178900/"><FaFacebook /></Link>
-                        <Link href="https://www.linkedin.com/in/abren-care-39a844327/"><FaLinkedin /></Link>
-                        <Link href="https://www.instagram.com/abrencareinfo/"><FaInstagram /></Link>
+                        <Link href="https://www.linkedin.com/company/abrencare/"><FaLinkedin /></Link>
+                        <Link href="https://www.instagram.com/abrencare.se?igsh=MnNmbXFvN21oanAy"><FaInstagram /></Link>
                     </div>
                 </div>
                 <div className="max-w-80 flex flex-col gap-6">

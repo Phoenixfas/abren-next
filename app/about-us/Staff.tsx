@@ -7,10 +7,9 @@ export default function Staff() {
         <div className="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3">
             <div className="max-w-2xl">
                 <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-4xl">Möt vårt <span className="text-[#54b3ba]">ledarskap</span></h2>
-                <p className="mt-6 text-lg leading-6 text-gray-600">På Abrencare är vårt erfarna team av vårdpersonal, socialt arbete och 
-                administrativ personal dedikerade till att tillhandahålla tjänster av hög kvalitet i en säker och 
-                förtroendefull miljö. Vi brinner för att göra en positiv skillnad och förbättra livskvaliteten och 
-                välbefinnandet för våra kunder och deras familjer.</p>
+                <p className="mt-6 text-lg leading-6 text-gray-600">
+                    På Abrencare är vårt erfarna team av vårdpersonal, socialarbetare och administrativ personal engagerade i att erbjuda tjänster av högsta kvalitet i en trygg och förtroendefull miljö. Vi strävar efter att göra en positiv skillnad i våra kunders liv och förbättra deras välbefinnande och livskvalitet, tillsammans med deras familjer.
+                </p>
             </div>
             <ul role="list" className="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
                 <li>
