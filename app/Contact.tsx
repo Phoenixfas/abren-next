@@ -45,7 +45,8 @@ export default function Contact() {
         </div>
 
         <div className="flex-[1.5] relative">
-            <div className="2xl:w-[600px] xl:w-[500px] h-screen bg-white rounded-lg translate-y-20 px-[50px] py-[100px]">
+            <div className="2xl:w-[600px] xl:w-[500px] h-screen bg-white rounded-lg translate-y-20 px-[50px] pb-[100px] pt-10">
+              <h2 className="text-3xl font-bold text-center text-[#54b3ba] mb-10">Kontakta oss</h2>
                 {msg && <p className="absolute w-[90%] text-center top-10 left-1/2 -translate-x-1/2 text-base font-bold text-white bg-green-500 px-5 py-1 rounded-full">{msg}</p>}
                 <form onSubmit={handleSubmit} className="w-full h-full flex flex-col items-center gap-[80px]" >
                     <input className="w-full outline-none border-b border-[#54b3ba] text-xl py-1 font-medium placeholder:text-[#999]" type="text" name="user_name" id="name" placeholder="namn" required value={user_name} onChange={(e) => setUserName(e.target.value)} />

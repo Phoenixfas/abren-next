@@ -9,9 +9,9 @@ export default function Navbar() {
   return (
         <nav className="absolute left-0 top-0 z-[9999999] w-full sm:px-10 md:px-20">
             <div className="flex justify-between items-center gap-8">
-            <div className="nav__logo">
-                <Link href={"/en"}><Image src="/abren-care.png" className="w-40" alt="logo" width={160} height={160}/></Link>
-            </div>
+            <Link href={"/en"} className="w-36 h-36 py-3">
+                <Image src="/logo.png" className="w-full h-full object-contain" alt="logo" width={160} height={160}/>
+            </Link>
             <div className="hidden lg:flex gap-20 items-center ">
                 <ul className="flex items-center gap-10 text-white text-xl">
                     <li className="hover:text-teal-500 duration-300"><Link href="/en" >Home</Link></li>

@@ -28,7 +28,7 @@ export default function Services() {
                 <div className="text-center">
                 <h2 className="text-2xl font-bold mb-2">Hemtjänst</h2>
                 <p className="teachers-lowerheading px-12 max-w-prose text-center">
-                    Vi erbjuder professionellt stöd för att underlätta vardagen för våra kunder och patienter. Våra tjänster inkluderar hjälp med inköp, städning, tvätt och matlagning, vilket gör det möjligt att behålla självständigheten i en trygg och bekväm hemmiljö. Vi ser till att dagliga behov tillgodoses med omsorg och respekt.
+                    Vi erbjuder professionellt stöd för att underlätta vardagen för våra kunder för våra kunder. Våra tjänster inkluderar hjälp med inköp, städning, tvätt och matlagning, vilket gör det möjligt att behålla självständigheten i en trygg och bekväm hemmiljö. Vi ser till att dagliga behov tillgodoses med omsorg och respekt.
                 </p>
                 </div>
             </div>
